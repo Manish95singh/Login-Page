@@ -1,2 +1,17 @@
-# Login-Page
- Login with facebook. Use facebook authenticate and login the user on the app. Capture all details that Facebook API returns such as user’s image, Name, email address, age group and any other data.
+### Setup
+
+To clone the repository on your computer 
+```bash
+$ git clone https://github.com/kapilbarad/reactjs-login-form.git
+$ cd reactjs-login-form.git
+```
+
+To install dependencies,
+```bash
+$ npm install
+```
+
+To run the project itself,
+```bash
+$ npm start
+```
